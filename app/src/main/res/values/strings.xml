@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Java Quiz</string>
+    <string name="enter_your_name_here">Enter your name here</string>
+    <string name="start_quiz">Start quiz</string>
+    <string name="next_question">Next question</string>
+    <string name="congratulation_username">Congratulation, username!</string>
+    <string name="your_scored">Your scored: X</string>
+    <string name="answers_and_explanations">Answers and Explanations</string>
+    <string name="question_1">What is JRE?</string>
+    <string name="question_1_answer_a">JRE is an implementation of the Java Virtual Machine which executes Java programs.</string>
+    <string name="question_1_answer_b">JRE is an application development framework.</string>
+    <string name="question_1_answer_c">JRE is a java based GUI application.</string>
+    <string name="question_2">Which method must be implemented by all threads?</string>
+    <string name="question_2_answer_a">wait()</string>
+    <string name="question_2_answer_b">start()</string>
+    <string name="question_2_answer_c">run()</string>
+    <string name="question_3">What is the default value of int variable?</string>
+    <string name="question_3_answer_c">null</string>
+    <string name="question_4">What is Serialization?</string>
+    <string name="question_4_answer_a">Serialization is the process of writing the state of an object to another object.</string>
+    <string name="question_4_answer_b">Serialization is the process of writing the state of an object to a byte stream.</string>
+    <string name="question_4_answer_c">None of the above.</string>
+    <string name="question_5">This is the parent of Error and Exception classes.</string>
+    <string name="question_5_answer_a">MainException</string>
+    <string name="question_5_answer_b">Catchable</string>
+    <string name="question_5_answer_c">Throwable</string>
+    <string name="question_6">Can constructor be made private?</string>
+    <string name="question_6_answer_a">False.</string>
+    <string name="question_6_answer_b">True.</string>
+    <string name="question_6_answer_c">Maybe.</string>
+    <string name="welcome">WELCOME! This is a Java programming quiz.   What is you name?</string>
+    <string name="all_answers">
+        1) Answer: A \n
+        Explanation \n
+        Java Runtime Environment is an implementation of the Java Virtual Machine which executes Java programs. \n
+        \n
+        2) Answer : C\n
+        Explanation\n
+        All threads must implement the run() method.\n
+        \n
+        3) Answer : A\n
+        Explanation\n
+        int variable has default value of 0 if defined as an instance/static variable.\n
+        \n
+        4) Answer : B\n
+        Explanation\n
+        Serialization is the process of writing the state of an object to a byte stream.\n
+        \n
+        5) Answer : C\n
+        Explanation\n
+        Throwable is the parent of both Error and Exception class.\n
+        \n
+        6) Answer : B\n
+        Explanation\n
+        Yes, class with private constructor can not instantiated using new keyword.</string>
+
+</resources>
